@@ -30,7 +30,7 @@ My name is Demola Adebayo and I'm a DevOps Engineer. I'm from Nigeria, living in
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demola-Adebayo&hide=java,html,text&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
 </a>
 <a href="https://github.com/DemolaAdebayo/DemolaAdebayo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Demola&show_icons=true&theme=dracula&hide=stars,issues&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Demola Adebayo's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DemolaAdebayo&show_icons=true&theme=dracula&hide=stars,issues&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Demola's GitHub Stats" />
 </a>
 
 
