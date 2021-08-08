@@ -1,6 +1,7 @@
 # Hello, folks! 👋
 
-My name is Demola Adebayo and I'm a DevOps Engineer. I'm from Nigeria, living in the United Kingdom. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+My name is Demola Adebayo and I'm a DevOps Engineer.
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 ### Portfolio
 
