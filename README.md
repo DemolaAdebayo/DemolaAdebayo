@@ -46,7 +46,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 [3.2]: https://raw.githubusercontent.com/DemolaAdebayo/DemolaAdebayo/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- links to your social media accounts -->
-[1]: https://twitter.com/Demola_Adebayo
+[1]: https://twitter.com/DemolaOps
 [2]: https://github.com/DemolaAdebayo
-[3]: https://www.linkedin.com/in/Demola-Adebayo/
+[3]: https://www.linkedin.com/in/demola-adebayo-98881b219/
 
